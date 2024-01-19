@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+body{
+    background-color: beige;
+}
+.name {
+    font-family: 'Black Ops One', system-ui;
+}
+
+table{
+    border:2px solid rgb(128, 50, 50);
+}
+img{
+    border-radius: 400%;  
+}
+.font{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.font1{
+    font-family: 'Fjalla One', sans-serif;
+}
